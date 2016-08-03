@@ -1,3 +1,5 @@
+begin js blockchain project
+
 # Lisk
 
 Lisk is a next generation crypto-currency and decentralized application platform, written entirely in JavaScript. For more information please refer to our website: https://lisk.io/.
